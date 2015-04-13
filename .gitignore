@@ -17,3 +17,6 @@ projectFilesBackup/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+.idea/
+.idea_modules 
+.gitignore
